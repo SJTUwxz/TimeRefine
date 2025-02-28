@@ -5,7 +5,7 @@ Official PyTorch implementation of the paper "TIMEREFINE: Temporal Grounding wit
 
 ## TimeRefine Overview 
 
-![framework](images/method2.pdf)
+![framework](images/method2.png)
 
 ---
 
