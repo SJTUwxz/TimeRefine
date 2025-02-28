@@ -11,7 +11,7 @@ Official PyTorch implementation of the paper "TIMEREFINE: Temporal Grounding wit
 
 ## Data Preparation
 
-We follow the same data preparation pipeline as VTimeLLM. Please check out [VTimeLLM training](https://github.com/huangb23/VTimeLLM/blob/main/docs/train.md) for instructions on downloading pretrained models and datasets. 
+We follow the same data preparation pipeline as VTimeLLM. Please check out [VTimeLLM training](https://github.com/huangb23/VTimeLLM/blob/main/docs/train.md) for instructions on downloading pretrained models and datasets. Please download the stage2 and stage3 training files and the best checkpoint [here](https://drive.google.com/drive/folders/1QTa0QZO7hAhBIbPPuedY_S1NycYH7rz0?usp=sharing). 
 
 ## Installation
 
