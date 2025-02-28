@@ -1,0 +1,12 @@
+# remote_host    sun
+# remote_user    fengchan 
+# remote_path    ~/projects-ng/xizi/TimeRefine
+remote_host      red
+remote_user      xiziwang
+remote_path      ~/satoshithesis/TimeRefine
+local_path     .
+ignore_path     ["pretrained_models"]
+ignore_dotfiles 1
+auto_sync_up    0
+remote_or_local remote
+sleep_before_sync 0

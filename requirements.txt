@@ -1,0 +1,14 @@
+decord
+easydict
+einops
+gradio
+numpy<2.0
+pandas>=2.0.3
+peft>=0.4.0
+Pillow
+tqdm
+git+https://github.com/openai/CLIP.git
+sentencepiece
+protobuf
+wandb
+deepspeed
